@@ -37,6 +37,7 @@ app.use("/api/v1/councils", councilRouter);
 app.use("/api/v1/notifys", notifyRouter);
 app.use("/api/v1/conversations", conversationRouter);
 app.use("/api/v1/messages", messageRouter);
+app.use(express.static('public'));
 
 app.use("/", viewRouter);
 app.all("*", (req, res, next) => {

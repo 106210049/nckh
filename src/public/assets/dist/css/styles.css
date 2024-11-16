@@ -104,3 +104,21 @@
     max-height: calc(100%);
     max-width: calc(100%);
   }
+
+  /* moi add*/
+  .logo-container {
+    display: flex; /* Sử dụng Flexbox để bố trí các logo */
+    justify-content: center; /* Căn giữa các logo */
+    gap: 20px; /* Tạo khoảng cách giữa hai logo */
+    margin-bottom: 15px; /* Khoảng cách giữa logo và dòng chữ */
+  }
+  
+  .logo {
+    max-width: 100px; /* Giới hạn chiều rộng logo */
+    height: auto; /* Giữ tỉ lệ gốc của ảnh */
+  }
+  
+  .login-logo {
+    text-align: center; /* Căn giữa dòng chữ */
+  }
+  

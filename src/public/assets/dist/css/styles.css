@@ -106,19 +106,40 @@
   }
 
   /* moi add*/
-  .logo-container {
-    display: flex; /* Sử dụng Flexbox để bố trí các logo */
-    justify-content: center; /* Căn giữa các logo */
-    gap: 20px; /* Tạo khoảng cách giữa hai logo */
-    margin-bottom: 15px; /* Khoảng cách giữa logo và dòng chữ */
+  /* Custom styles for the logo */
+
+  .login-logo img {
+    width: 120px; /* Adjust width as needed */
+    height: auto; /* Maintain aspect ratio */
+    margin-right: 20px; /* Khoảng cách giữa logo đầu tiên và logo thứ hai */
+    margin-bottom: 10px; /* Add margin if needed */
   }
   
-  .logo {
-    max-width: 100px; /* Giới hạn chiều rộng logo */
-    height: auto; /* Giữ tỉ lệ gốc của ảnh */
+  .login-logo img:nth-child(1) {
+    margin-right: 30px; /* Điều chỉnh khoảng cách giữa hai logo */
   }
-  
-  .login-logo {
-    text-align: center; /* Căn giữa dòng chữ */
+
+  .bg-gradient-primary {
+    background: linear-gradient(135deg, #6a11cb, #2575fc); /* Màu gradient xanh tím */
+    min-height: 100vh; /* Chiều cao tối thiểu bằng chiều cao màn hình */
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
-  
+
+  .login-box {
+  background: #ffffff; /* Giữ nền trắng cho hộp */
+  padding: 30px;
+  border-radius: 40px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); /* Tăng hiệu ứng bóng */
+  border: 4px solid #bbdefb; /* Đường viền nhạt để hài hòa với nền */
+  width: 100%;
+  max-width: 500px;
+}
+.btn-primary {
+  width: auto; /* Để nút có chiều rộng vừa phải */
+  padding: 10px 10px; /* Tạo kích thước nút đẹp hơn */
+  margin-left: 11px; /* Khoảng cách với bên trái */
+}
+
+

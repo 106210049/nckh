@@ -33,7 +33,7 @@ block content
               form(id=`deleteForm_${notify._id}`, style="display:inline;")
                 button.btn.btn-default.btn-sm.btn-flat.border-info.wave-effect.text-info.dropdown-toggle(type="button", data-toggle="dropdown", aria-expanded="true") Hoạt động
                 .dropdown-menu
-                  a.dropdown-item.view_project(href=`/notify/${notify._id}`) Xem
+                  a.dropdown-item.view_project(href=`/notify/${notify._id}`)
                   -if(user.role == "admin" )
                     .dropdown-divider
                     button.dropdown-item(type="button", onclick=`editNotify('${notify._id}')`) Chỉnh sửa

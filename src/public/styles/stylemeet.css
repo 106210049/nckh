@@ -27,29 +27,17 @@ body {
 }
 
 .container {
-  margin: 0 auto;
-  display: flex;
-  justify-content: space-between;
-  flex-wrap: nowrap;
-  height: 100vh;
-  align-items: center;
+  background: linear-gradient(135deg, #4facfe, #00f2fe); /* Gradient màu nền */
+  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2); /* Đổ bóng mịn hơn */
 }
-.container1{
-  border: 2px solid blue;
-  border-radius: 10px;
-  background-color: #eee; /* Màu nền */
-  padding: 10px;
-  margin-right: 5px;
-  max-height: 100vh;
-  overflow-y: auto;
+.container1, .container2 {
+  transition: transform 0.3s ease, background-color 0.3s ease; /* Hiệu ứng hover mượt */
 }
-.container2{
-  border: 2px solid blue;
-  border-radius: 10px;
-  background-color: #eee; /* Màu nền */
-  padding: 10px;
-  margin-left: 5px;
+.container1:hover, .container2:hover {
+  transform: scale(1.02); /* Phóng to nhẹ khi hover */
+  background-color: #fff; /* Màu nền sáng hơn khi hover */
 }
+
 .hidden {
   display: none;
 }
@@ -59,49 +47,68 @@ body {
 }
 
 /* Styling for the buttons */
-.button {
+/* .button {
   margin: 5px;
+} */
+.button {
+  border: none;
+  border-radius: 5px;
+  margin: 5px;
+  font-weight: bold;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
 }
+.button:hover {
+  box-shadow: 0 8px 12px rgba(0, 0, 0, 0.3); /* Hiệu ứng đổ bóng khi hover */
+  transform: translateY(-3px); /* Di chuyển nút lên nhẹ */
+}
+
 
 .is-primary {
-  background-color: #3273dc;
-  color: #fff;
+  background: linear-gradient(45deg, #3273dc, #00d1b2); /* Gradient nút chính */
 }
-
 .is-info {
-  background-color: #209cee;
-  color: #fff;
+  background: linear-gradient(45deg, #209cee, #2ecc71); /* Gradient nút thông tin */
+}
+.is-danger {
+  background: linear-gradient(45deg, #ff3860, #ff6347); /* Gradient nút cảnh báo */
 }
 
-.is-danger {
-  background-color: #ff3860;
-  color: #fff;
-}
 .share-button {
-  background-color: #808080;
+  background: linear-gradient(45deg, #3273dc, #00d1b2); /* Gradient nút chính */
   color: #fff;
   display: flex;
   align-items: center;
   /* display: none; */
 }
 .share-button:hover{
-  background-color: red;
+  background: linear-gradient(45deg, #3273dc, #00d1b2); 
   color: #fff;
 }
 /* Styling for the chat section */
 .chat-section {
-  width: 300px;
-  background-color: #f4f4f4;
-  padding: 15px;
-  border-radius: 5px;
-  margin-top: 20px;
+  border: 2px solid #00d1b2;
+  background: linear-gradient(135deg, #f4f4f4, #e8e8e8); /* Gradient sáng */
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+  flex-direction: column;
+  align-items: center; /* Căn giữa theo chiều ngang */
 }
 
-.chat-messages {
+/* .chat-messages {
   list-style: none;
   margin-bottom: 10px;
   overflow-y: auto;
   max-height: 200px;
+} */
+.chat-messages {
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  max-height: 500px;
+  height: 200px;
+  width: 94%; /* Tùy chỉnh chiều rộng để phù hợp với container */
+  background: #fff;
+  margin-bottom: 10px; /* Thêm khoảng cách phía dưới */
 }
 
 .chat-form {
@@ -112,6 +119,9 @@ body {
 .chat-form input {
   flex: 1;
   padding: 5px;
+  border: 2px solid #00d1b2;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 209, 178, 0.8);
 }
 
 .boxChat {
@@ -140,7 +150,7 @@ body {
 .participants {
   margin: 5px;
 }
-#videos {
+/* #videos {
   display: flex;
   flex-wrap: wrap;
   margin-top: 20px;
@@ -149,15 +159,37 @@ body {
   flex: 1 1 50%;
   padding: 0;
   min-width: 0;
+} */
+#videos video {
+  border: 5px solid #00d1b2;
+  border-radius: 10px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
+#videos video:hover {
+  transform: scale(1.05); /* Phóng to nhẹ khi hover */
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); /* Đổ bóng khi hover */
+}
+
 /* Additional styles */
 .header-highlight {
   color: #ff4954;
 }
 
-.info {
-  padding: 1.5rem;
+.info p {
+  font-size: 1rem;
+  color: #555;
+  margin-bottom: 10px;
 }
+
+.info strong {
+  color: #ff4954;
+}
+
+.info a {
+  color: #3273dc;
+  text-decoration: underline;
+}
+
 .icon {
   width: 100%; /* Chiều rộng ảnh là 100% của phần tử chứa */
   max-width: 400px; /* Tối đa chiều rộng của ảnh là 400px */
@@ -166,3 +198,18 @@ body {
   margin: 0 auto;
   border-radius: 2px;
   }
+  h1.title {
+    color: #ff4954;
+    font-weight: bold;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+  }
+  h1.title::after {
+    content: "";
+    display: block;
+    width: 80px;
+    height: 4px;
+    background: #00d1b2;
+    margin: 10px auto 0;
+    border-radius: 2px;
+  }
+  

@@ -121,12 +121,20 @@
 
   .bg-gradient-primary {
     background: linear-gradient(135deg, #6a11cb, #2575fc); /* Màu gradient xanh tím */
-    min-height: 100vh; /* Chiều cao tối thiểu bằng chiều cao màn hình */
+    min-height: 35px; /* Chiều cao tối thiểu bằng chiều cao màn hình */
+    min-width: 70px;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-
+  .bg-gradient-secondary{
+    background: linear-gradient(135deg, #6a11cb, #2575fc); /* Màu gradient xanh tím */
+    min-height: 35px; /* Chiều cao tối thiểu bằng chiều cao màn hình */
+    min-width: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
   .login-box {
   background: #ffffff; /* Giữ nền trắng cho hộp */
   padding: 30px;

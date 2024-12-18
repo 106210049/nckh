@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3" pages="3">
-  <diagram name="Page-1" id="LuKG0nvg6y8eXmbU_TSD">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3" pages="4">
+  <diagram name="Sinh viên" id="LuKG0nvg6y8eXmbU_TSD">
     <mxGraphModel dx="1366" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -82,8 +82,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="69wECQDE67QujWCm17ky" name="Page-2">
-    <mxGraphModel dx="1687" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="69wECQDE67QujWCm17ky" name="admin">
+    <mxGraphModel dx="574" dy="309" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -97,7 +97,7 @@
           <mxGeometry x="80" y="180" width="155" height="75" as="geometry" />
         </mxCell>
         <mxCell id="qOkqv1ee3sYDBOUJz5UH-4" value="Quản lý user" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="250" y="480" width="120" height="50" as="geometry" />
+          <mxGeometry x="180" y="490" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qOkqv1ee3sYDBOUJz5UH-5" value="Thêm user" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="140" y="610" width="80" height="50" as="geometry" />
@@ -147,7 +147,7 @@
             <mxPoint x="200" y="305" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qOkqv1ee3sYDBOUJz5UH-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.573;entryY=-0.028;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" edge="1" parent="1" target="qOkqv1ee3sYDBOUJz5UH-4">
+        <mxCell id="qOkqv1ee3sYDBOUJz5UH-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.573;entryY=-0.028;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" edge="1" parent="1" target="qOkqv1ee3sYDBOUJz5UH-4" source="qOkqv1ee3sYDBOUJz5UH-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="300" y="440" as="sourcePoint" />
             <mxPoint x="222" y="369" as="targetPoint" />
@@ -328,7 +328,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ozwJXcNLDON-IZLHLj-l" name="Page-3">
-    <mxGraphModel dx="1195" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -398,6 +398,14 @@
             <mxPoint x="468" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="pS76od08-7XSCxtdSmXQ" name="Page-4">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>

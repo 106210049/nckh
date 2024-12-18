@@ -345,10 +345,10 @@
           <mxGeometry x="120" y="462.5" width="130" height="67.5" as="geometry" />
         </mxCell>
         <mxCell id="iOzRWky22JZthRIL59TV-5" value="Đề tài/ bài báo" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="370" y="320" width="130" height="70" as="geometry" />
+          <mxGeometry x="425" y="310" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="iOzRWky22JZthRIL59TV-7" value="Xem đề tài/&amp;nbsp;&lt;div&gt;bài báo&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="550" y="180" width="130" height="70" as="geometry" />
+          <mxGeometry x="640" y="200" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="iOzRWky22JZthRIL59TV-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="iOzRWky22JZthRIL59TV-1" target="iOzRWky22JZthRIL59TV-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -356,7 +356,7 @@
             <mxPoint x="430" y="375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iOzRWky22JZthRIL59TV-10" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;" edge="1" parent="1" source="iOzRWky22JZthRIL59TV-1">
+        <mxCell id="iOzRWky22JZthRIL59TV-10" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iOzRWky22JZthRIL59TV-1" target="iOzRWky22JZthRIL59TV-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="430" as="sourcePoint" />
             <mxPoint x="250" y="490" as="targetPoint" />
@@ -368,7 +368,7 @@
             <mxPoint x="280" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iOzRWky22JZthRIL59TV-12" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;" edge="1" parent="1">
+        <mxCell id="iOzRWky22JZthRIL59TV-12" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="iOzRWky22JZthRIL59TV-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="330" y="419.65999999999997" as="sourcePoint" />
             <mxPoint x="260" y="419.65999999999997" as="targetPoint" />
@@ -381,7 +381,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tWTGY230bY2E-C51Af2f-1" value="Duyệt đề tài/&amp;nbsp;&lt;div&gt;bài báo&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="610" y="330" width="130" height="70" as="geometry" />
+          <mxGeometry x="640" y="310" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="tWTGY230bY2E-C51Af2f-2" value="extend" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.987;entryY=0.471;entryDx=0;entryDy=0;fontSize=18;entryPerimeter=0;exitX=0.003;exitY=0.376;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tWTGY230bY2E-C51Af2f-1" target="iOzRWky22JZthRIL59TV-5">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -390,7 +390,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tWTGY230bY2E-C51Af2f-3" value="Đánh giá" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="570" y="450" width="130" height="70" as="geometry" />
+          <mxGeometry x="640" y="420" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="tWTGY230bY2E-C51Af2f-5" value="extend" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;fontSize=18;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="tWTGY230bY2E-C51Af2f-3" target="iOzRWky22JZthRIL59TV-5">
           <mxGeometry width="160" relative="1" as="geometry">

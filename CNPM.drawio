@@ -1109,6 +1109,9 @@
         <mxCell id="NMqgNWX50MV01uR2lD78-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Hủy bỏ&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="600" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="NMqgNWX50MV01uR2lD78-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Hoàn tất&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="485" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

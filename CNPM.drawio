@@ -1120,7 +1120,7 @@
         <mxCell id="NMqgNWX50MV01uR2lD78-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Hoàn tất&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Nf0yiEntAloBWkN2C_kV-1">
           <mxGeometry x="260" y="570" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Nf0yiEntAloBWkN2C_kV-2" value="Hệ thống" style="swimlane;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="Nf0yiEntAloBWkN2C_kV-2" value="Sinh viên" style="swimlane;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="40" y="150" width="350" height="650" as="geometry">
             <mxRectangle x="120" y="40" width="100" height="30" as="alternateBounds" />
           </mxGeometry>

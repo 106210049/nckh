@@ -1571,6 +1571,12 @@
         <mxCell id="xqb3Qn7WRUxqrLPKZFDn-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Yêu cầu nhập lại&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="p39mDifyk3i3h8EBaPt_-2">
           <mxGeometry x="120" y="480" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="xqb3Qn7WRUxqrLPKZFDn-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Hủy bỏ&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="p39mDifyk3i3h8EBaPt_-2">
+          <mxGeometry x="140" y="570" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xqb3Qn7WRUxqrLPKZFDn-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Hủy bỏ&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="p39mDifyk3i3h8EBaPt_-2">
+          <mxGeometry x="50" y="630" width="60" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="xqb3Qn7WRUxqrLPKZFDn-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Sai&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="340" width="60" height="30" as="geometry" />
         </mxCell>

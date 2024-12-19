@@ -865,7 +865,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5LnASr8H5wwdPq46A_wU" name="Quản lý hội đồng">
-    <mxGraphModel dx="731" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="883" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -936,14 +936,20 @@
         <mxCell id="cTfaBt22akGuV84oOPTa-1" value="" style="rhombus;fillColor=#0000FF;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="685" y="280" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="cTfaBt22akGuV84oOPTa-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="cTfaBt22akGuV84oOPTa-3" target="3hfq4djW9Jt0GfosdpSu-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cTfaBt22akGuV84oOPTa-3" value="Thông báo lỗi" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#99FFCC;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="540" y="270" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="cTfaBt22akGuV84oOPTa-5" value="Kiểm tra thông tin" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#99FFCC;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="cTfaBt22akGuV84oOPTa-5" value="Hủy thành công" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#99FFCC;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="620" y="350" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cTfaBt22akGuV84oOPTa-8" value="" style="rhombus;fillColor=#0000FF;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="685" y="560" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cTfaBt22akGuV84oOPTa-10" value="Thông báo lỗi" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#99FFCC;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="500" y="550" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

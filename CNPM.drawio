@@ -1021,7 +1021,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6PA5gwxYjPvi49cJQFOf" name="Chi tiết đề tài">
-    <mxGraphModel dx="883" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1067" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1096,6 +1096,12 @@
         </mxCell>
         <mxCell id="NMqgNWX50MV01uR2lD78-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Sai&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="485" y="460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NMqgNWX50MV01uR2lD78-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NMqgNWX50MV01uR2lD78-2" target="U94suldAqwC2syZF1995-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NMqgNWX50MV01uR2lD78-2" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="130" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

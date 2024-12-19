@@ -865,7 +865,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5LnASr8H5wwdPq46A_wU" name="Quản lý hội đồng">
-    <mxGraphModel dx="883" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1829" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -995,6 +995,19 @@
         </mxCell>
         <mxCell id="VPVLyLCfGbSJpExHNUL0-10" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
           <mxGeometry x="140" y="720" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VAzSRqacpPfD5w4Phm1Q-1" value="sinh viên" style="swimlane;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="30" y="70" width="370" height="770" as="geometry">
+            <mxRectangle x="120" y="40" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VAzSRqacpPfD5w4Phm1Q-2" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="VAzSRqacpPfD5w4Phm1Q-1">
+          <mxGeometry x="190" y="70" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VAzSRqacpPfD5w4Phm1Q-3" value="System" style="swimlane;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="400" y="70" width="440" height="770" as="geometry">
+            <mxRectangle x="120" y="40" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

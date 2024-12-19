@@ -776,7 +776,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="N85uuOdhl6JepufN_u8x" name="Đăng ký đề tài/bài báo">
-    <mxGraphModel dx="970" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1172" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -848,6 +848,22 @@
         </mxCell>
         <mxCell id="9ykzedF7Q2xI-zGqV_0n-19" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Hủy bỏ&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BIGwIr2x81udd9osENto-1" value="sinh viên" style="swimlane;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="380" height="560" as="geometry">
+            <mxRectangle x="120" y="40" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BIGwIr2x81udd9osENto-4" value="Xác nhận lấy lại mật khẩu" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="BIGwIr2x81udd9osENto-1">
+          <mxGeometry x="200" y="410" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BIGwIr2x81udd9osENto-5" value="System" style="swimlane;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="420" y="40" width="380" height="560" as="geometry">
+            <mxRectangle x="120" y="40" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BIGwIr2x81udd9osENto-8" value="Thành công" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="BIGwIr2x81udd9osENto-5">
+          <mxGeometry x="180" y="200" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

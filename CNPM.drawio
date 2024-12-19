@@ -1560,7 +1560,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XL8zEyNbNZD4rr_A2vGQ" name="Quản lý user">
-    <mxGraphModel dx="731" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="427" dy="257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1594,13 +1594,6 @@
         <mxCell id="b9jTH73bJ7fJ_RsFd4cS-3" value="Thêm" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#99FFCC;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="440" y="360" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="b9jTH73bJ7fJ_RsFd4cS-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="b9jTH73bJ7fJ_RsFd4cS-4" target="b9jTH73bJ7fJ_RsFd4cS-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="600" y="440" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="b9jTH73bJ7fJ_RsFd4cS-4" value="Sửa" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#99FFCC;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="560" y="360" width="80" height="40" as="geometry" />
         </mxCell>
@@ -1627,6 +1620,20 @@
         </mxCell>
         <mxCell id="b9jTH73bJ7fJ_RsFd4cS-9" value="Nhập thông tin&amp;nbsp;&lt;div&gt;người dùng&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="110" y="400" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2Y0NtkF0zadZ_4XIPSQ1-1" value="Kiểm tra thông tin" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#99FFCC;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="550" y="440" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2Y0NtkF0zadZ_4XIPSQ1-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="b9jTH73bJ7fJ_RsFd4cS-9" target="2Y0NtkF0zadZ_4XIPSQ1-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2Y0NtkF0zadZ_4XIPSQ1-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.006;entryY=0.379;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="b9jTH73bJ7fJ_RsFd4cS-4" target="b9jTH73bJ7fJ_RsFd4cS-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="430" />
+              <mxPoint x="425" y="430" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

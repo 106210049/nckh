@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3" pages="8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3" pages="9">
   <diagram name="Sinh viên" id="LuKG0nvg6y8eXmbU_TSD">
     <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1021,7 +1021,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6PA5gwxYjPvi49cJQFOf" name="Chi tiết đề tài">
-    <mxGraphModel dx="731" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1067" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1064,12 +1064,26 @@
         <mxCell id="cyXRxLWBbiP_qCYVc1oH-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cyXRxLWBbiP_qCYVc1oH-1" target="cyXRxLWBbiP_qCYVc1oH-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="msaAJ79DW__JFn58t9k7-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cyXRxLWBbiP_qCYVc1oH-1" target="msaAJ79DW__JFn58t9k7-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cyXRxLWBbiP_qCYVc1oH-1" value="" style="rhombus;fillColor=#0000FF;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="530" y="480" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cyXRxLWBbiP_qCYVc1oH-3" value="Thông báo lỗi" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#99FFCC;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="400" y="475" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="msaAJ79DW__JFn58t9k7-1" value="Lưu vào&amp;nbsp;&lt;div&gt;hệ thống&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#99FFCC;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="485" y="560" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="uyxWYusr75pv4Gn-ZOt7" name="Đổi mật khẩu">
+    <mxGraphModel dx="1280" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>

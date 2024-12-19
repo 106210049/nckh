@@ -990,7 +990,7 @@
         <mxCell id="VPVLyLCfGbSJpExHNUL0-10" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
           <mxGeometry x="140" y="720" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VAzSRqacpPfD5w4Phm1Q-1" value="sinh viên" style="swimlane;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="VAzSRqacpPfD5w4Phm1Q-1" value="sinh viên" style="swimlane;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="30" y="70" width="450" height="770" as="geometry">
             <mxRectangle x="120" y="40" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -1001,7 +1001,7 @@
         <mxCell id="VPVLyLCfGbSJpExHNUL0-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Hoàn tác&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VAzSRqacpPfD5w4Phm1Q-1">
           <mxGeometry x="310" y="180" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VAzSRqacpPfD5w4Phm1Q-3" value="System" style="swimlane;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="VAzSRqacpPfD5w4Phm1Q-3" value="System" style="swimlane;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="480" y="70" width="360" height="770" as="geometry">
             <mxRectangle x="120" y="40" width="100" height="30" as="alternateBounds" />
           </mxGeometry>

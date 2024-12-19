@@ -865,7 +865,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5LnASr8H5wwdPq46A_wU" name="Quản lý hội đồng">
-    <mxGraphModel dx="970" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="733" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -892,6 +892,21 @@
         </mxCell>
         <mxCell id="RuLzXG7EShGqIbzH1IN3-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.545;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3hfq4djW9Jt0GfosdpSu-5" target="3hfq4djW9Jt0GfosdpSu-4">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RuLzXG7EShGqIbzH1IN3-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="180" y="280" width="5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RuLzXG7EShGqIbzH1IN3-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=-0.107;entryY=0.539;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SfKTLKWUo9kHpoUxL2sk-1" target="RuLzXG7EShGqIbzH1IN3-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="340" as="sourcePoint" />
+            <mxPoint x="130" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RuLzXG7EShGqIbzH1IN3-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=-0.245;entryY=0.513;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3hfq4djW9Jt0GfosdpSu-3" target="RuLzXG7EShGqIbzH1IN3-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="240" as="sourcePoint" />
+            <mxPoint x="230" y="310" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

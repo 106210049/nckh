@@ -857,14 +857,6 @@
         <mxCell id="BIGwIr2x81udd9osENto-4" value="Xác nhận lấy lại mật khẩu" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="BIGwIr2x81udd9osENto-1">
           <mxGeometry x="200" y="410" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BIGwIr2x81udd9osENto-5" value="System" style="swimlane;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="420" y="40" width="380" height="560" as="geometry">
-            <mxRectangle x="120" y="40" width="100" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BIGwIr2x81udd9osENto-8" value="Thành công" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="BIGwIr2x81udd9osENto-5">
-          <mxGeometry x="180" y="200" width="110" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

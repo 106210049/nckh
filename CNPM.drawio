@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3" pages="11">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3" pages="12">
   <diagram name="Sinh viên" id="LuKG0nvg6y8eXmbU_TSD">
     <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1358,7 +1358,7 @@
         <mxCell id="ES8WOwfcxrYflLvUsC8y-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ES8WOwfcxrYflLvUsC8y-20" source="ES8WOwfcxrYflLvUsC8y-21" target="ES8WOwfcxrYflLvUsC8y-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ES8WOwfcxrYflLvUsC8y-24" value="Hệ thống" style="swimlane;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="ES8WOwfcxrYflLvUsC8y-24" value="Hệ thống" style="swimlane;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=3;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="150" width="380" height="770" as="geometry">
             <mxRectangle x="120" y="40" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -1546,6 +1546,24 @@
         <mxCell id="anXNdZiI__jJS8GmZ0s3-22" value="Lưu thông tin" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#99FFCC;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="620" y="660" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="p39mDifyk3i3h8EBaPt_-1" value="Hệ thống" style="swimlane;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=3;swimlaneLine=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="70" width="360" height="770" as="geometry">
+            <mxRectangle x="120" y="40" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p39mDifyk3i3h8EBaPt_-2" value="Giảng viên" style="swimlane;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=3;swimlaneLine=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="70" width="360" height="770" as="geometry">
+            <mxRectangle x="120" y="40" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="XL8zEyNbNZD4rr_A2vGQ" name="Page-12">
+    <mxGraphModel dx="1280" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>

@@ -1426,7 +1426,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IMyyALMaEvKIK4kSECzY" name="Chấm điểm đề tài/ bài báo">
-    <mxGraphModel dx="1067" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1280" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1556,6 +1556,12 @@
         </mxCell>
         <mxCell id="xqb3Qn7WRUxqrLPKZFDn-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Sai&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="p39mDifyk3i3h8EBaPt_-1">
           <mxGeometry x="170" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xqb3Qn7WRUxqrLPKZFDn-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Đúng&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="p39mDifyk3i3h8EBaPt_-1">
+          <mxGeometry x="240" y="560" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xqb3Qn7WRUxqrLPKZFDn-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Sai&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="p39mDifyk3i3h8EBaPt_-1">
+          <mxGeometry x="170" y="520" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p39mDifyk3i3h8EBaPt_-2" value="Giảng viên" style="swimlane;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=3;swimlaneLine=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="70" width="360" height="770" as="geometry">

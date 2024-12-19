@@ -1074,7 +1074,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cyXRxLWBbiP_qCYVc1oH-3" value="Thông báo lỗi" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#99FFCC;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="400" y="475" width="100" height="40" as="geometry" />
+          <mxGeometry x="390" y="475" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="msaAJ79DW__JFn58t9k7-1" value="Lưu vào&amp;nbsp;&lt;div&gt;hệ thống&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#99FFCC;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="485" y="560" width="120" height="40" as="geometry" />
@@ -1090,6 +1090,12 @@
         </mxCell>
         <mxCell id="msaAJ79DW__JFn58t9k7-6" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
           <mxGeometry x="160" y="650" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7DwqnXtnu2qBc4BKhYNJ-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Đúng&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="515" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NMqgNWX50MV01uR2lD78-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Sai&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="485" y="460" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -957,6 +957,9 @@
         <mxCell id="VPVLyLCfGbSJpExHNUL0-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Sai&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="270" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="VPVLyLCfGbSJpExHNUL0-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Hoàn tác&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="270" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -703,9 +703,6 @@
         <mxCell id="wNlY4IZdVZvZV4PoUj6O-19" value="Thành công" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="650" y="240" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wNlY4IZdVZvZV4PoUj6O-20" value="Không thành công" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="510" y="200" width="100" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="wNlY4IZdVZvZV4PoUj6O-21" value="" style="ellipse;fillColor=strokeColor;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="267.5" y="70" width="25" height="20" as="geometry" />
         </mxCell>
@@ -758,6 +755,9 @@
         </mxCell>
         <mxCell id="wNlY4IZdVZvZV4PoUj6O-16" value="Hiện thị form gửi mail xác nhận" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#99FFCC;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="wNlY4IZdVZvZV4PoUj6O-33">
           <mxGeometry x="100" y="295" width="160" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="wNlY4IZdVZvZV4PoUj6O-20" value="Không thành công" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="wNlY4IZdVZvZV4PoUj6O-33">
+          <mxGeometry x="10" y="160" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

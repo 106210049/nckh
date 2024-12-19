@@ -1833,6 +1833,13 @@
         <mxCell id="jKD_1IBw9OufxzTcFJPy-9" value="" style="rhombus;fillColor=#0000FF;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="185" y="800" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="jKD_1IBw9OufxzTcFJPy-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jKD_1IBw9OufxzTcFJPy-13" target="jKD_1IBw9OufxzTcFJPy-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="955" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="jKD_1IBw9OufxzTcFJPy-13" value="Lưu mật khẩu mới" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#99FFCC;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="520" y="790" width="160" height="80" as="geometry" />
         </mxCell>

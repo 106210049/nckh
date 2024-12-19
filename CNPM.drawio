@@ -644,7 +644,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="x4XsCHvQw8Hq6vui8JbK" name="login_activity_diagram">
-    <mxGraphModel dx="970" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1406" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -754,7 +754,7 @@
             <mxRectangle x="120" y="40" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wNlY4IZdVZvZV4PoUj6O-33" value="user_admin" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wNlY4IZdVZvZV4PoUj6O-33" value="System" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="40" width="340" height="520" as="geometry">
             <mxRectangle x="120" y="40" width="100" height="30" as="alternateBounds" />
           </mxGeometry>

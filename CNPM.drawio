@@ -1909,14 +1909,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="AqDrl-pvaRAuC37Xuhxy-1" value="Hệ thống" style="swimlane;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=3;swimlaneLine=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="420" y="150" width="100" height="30" as="geometry">
-            <mxRectangle x="420" y="150" width="380" height="850" as="alternateBounds" />
+        <mxCell id="AqDrl-pvaRAuC37Xuhxy-1" value="Hệ thống" style="swimlane;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=3;swimlaneLine=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="150" width="380" height="450" as="geometry">
+            <mxRectangle x="420" y="150" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AqDrl-pvaRAuC37Xuhxy-2" value="admin" style="swimlane;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=3;swimlaneLine=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="40" y="150" width="100" height="30" as="geometry">
-            <mxRectangle x="40" y="150" width="380" height="850" as="alternateBounds" />
+        <mxCell id="AqDrl-pvaRAuC37Xuhxy-2" value="admin" style="swimlane;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=3;swimlaneLine=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="150" width="380" height="450" as="geometry">
+            <mxRectangle x="40" y="150" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eEQgAmEx3cc-FHmY9dps-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eEQgAmEx3cc-FHmY9dps-1" target="eEQgAmEx3cc-FHmY9dps-2">

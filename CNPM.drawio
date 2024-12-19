@@ -411,7 +411,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pS76od08-7XSCxtdSmXQ" name="summary">
-    <mxGraphModel dx="1793" dy="965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1740" dy="965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1726,7 +1726,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rQEBZ9XbrqELt1HMn5rt" name="Đổi mật khẩu">
-    <mxGraphModel dx="1638" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1989" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1747,7 +1747,7 @@
         <mxCell id="5J06iMJuJyI-4PqB6o2f-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Sai&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3iPBwgK57apngOuwdhCn-1">
           <mxGeometry x="110" y="570" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qr9qpVKD45HdwTU5HZJy-1" value="admin" style="swimlane;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=3;swimlaneLine=1;" vertex="1" parent="1">
+        <mxCell id="Qr9qpVKD45HdwTU5HZJy-1" value="admin/sinh viên/ giảng viên" style="swimlane;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=3;swimlaneLine=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="150" width="380" height="850" as="geometry">
             <mxRectangle x="60" y="150" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -1905,7 +1905,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QCvOKSTCDF7qn4qYXJ_W" name="Thống kê">
-    <mxGraphModel dx="1392" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1638" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />

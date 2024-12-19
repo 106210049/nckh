@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3" pages="7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3" pages="8">
   <diagram name="Sinh viên" id="LuKG0nvg6y8eXmbU_TSD">
     <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -751,7 +751,7 @@
         <mxCell id="0zwtG0yTce_OTVt3FTIl-1" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="wNlY4IZdVZvZV4PoUj6O-32">
           <mxGeometry x="190" y="30" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wNlY4IZdVZvZV4PoUj6O-33" value="System" style="swimlane;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="wNlY4IZdVZvZV4PoUj6O-33" value="Hệ thống" style="swimlane;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=3;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="420" y="190" width="380" height="560" as="geometry">
             <mxRectangle x="120" y="40" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -1017,6 +1017,14 @@
         <mxCell id="h6TkMVBY4VDH8imvT6cI-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Sai&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VAzSRqacpPfD5w4Phm1Q-3">
           <mxGeometry x="160" y="480" width="60" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="6PA5gwxYjPvi49cJQFOf" name="Page-8">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>

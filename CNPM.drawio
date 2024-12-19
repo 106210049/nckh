@@ -1021,11 +1021,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6PA5gwxYjPvi49cJQFOf" name="Chi tiết đề tài">
-    <mxGraphModel dx="610" dy="368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="512" dy="309" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="U94suldAqwC2syZF1995-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="U94suldAqwC2syZF1995-1" target="U94suldAqwC2syZF1995-3">
+        <mxCell id="U94suldAqwC2syZF1995-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.724;exitY=1.015;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="U94suldAqwC2syZF1995-1" target="U94suldAqwC2syZF1995-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U94suldAqwC2syZF1995-1" value="Xem đề tài" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="1">

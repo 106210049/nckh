@@ -1109,7 +1109,17 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Nf0yiEntAloBWkN2C_kV-6" value="Hiển thị&amp;nbsp;&lt;div&gt;đề tài&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="280" y="637.5" width="110" height="55" as="geometry" />
+          <mxGeometry x="240" y="637.5" width="110" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="eZT4tea5pW92iAxvgRPO-1" value="Hệ thống" style="swimlane;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="380" y="70" width="340" height="650" as="geometry">
+            <mxRectangle x="120" y="40" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eZT4tea5pW92iAxvgRPO-2" value="Hệ thống" style="swimlane;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=3;" vertex="1" parent="eZT4tea5pW92iAxvgRPO-1">
+          <mxGeometry x="-340" width="340" height="650" as="geometry">
+            <mxRectangle x="120" y="40" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

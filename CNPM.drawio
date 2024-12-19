@@ -734,7 +734,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wNlY4IZdVZvZV4PoUj6O-32" value="user_admin" style="swimlane;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="wNlY4IZdVZvZV4PoUj6O-32" value="admin/sinh viên/ giảng viên" style="swimlane;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="40" y="190" width="380" height="560" as="geometry">
             <mxRectangle x="120" y="40" width="100" height="30" as="alternateBounds" />
           </mxGeometry>

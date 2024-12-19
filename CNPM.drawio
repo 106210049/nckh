@@ -1044,8 +1044,8 @@
             <mxRectangle x="120" y="40" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="54f6xQiHvOoPMzDe3y77-2" value="Xem đề tài" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="54f6xQiHvOoPMzDe3y77-19">
-          <mxGeometry x="250" y="50" width="110" height="40" as="geometry" />
+        <mxCell id="54f6xQiHvOoPMzDe3y77-2" value="Xem đề tài/ bài báo" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="54f6xQiHvOoPMzDe3y77-19">
+          <mxGeometry x="245" y="45" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="54f6xQiHvOoPMzDe3y77-17" value="Hiển thị&amp;nbsp;&lt;div&gt;đề tài/ bài báo&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="54f6xQiHvOoPMzDe3y77-19">
           <mxGeometry x="115" y="650" width="120" height="65" as="geometry" />

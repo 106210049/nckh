@@ -1021,7 +1021,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6PA5gwxYjPvi49cJQFOf" name="Chi tiết đề tài">
-    <mxGraphModel dx="2133" dy="1287" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="853" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1086,7 +1086,7 @@
             <mxRectangle x="120" y="40" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eZT4tea5pW92iAxvgRPO-2" value="Sinh viên" style="swimlane;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=3;" vertex="1" parent="eZT4tea5pW92iAxvgRPO-1">
+        <mxCell id="eZT4tea5pW92iAxvgRPO-2" value="Sinh viên/ Giảng viên" style="swimlane;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=3;" vertex="1" parent="eZT4tea5pW92iAxvgRPO-1">
           <mxGeometry x="-340" width="340" height="650" as="geometry">
             <mxRectangle x="120" y="40" width="100" height="30" as="alternateBounds" />
           </mxGeometry>

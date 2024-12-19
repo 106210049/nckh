@@ -1056,7 +1056,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U94suldAqwC2syZF1995-8" value="Kiểm tra&amp;nbsp;&lt;div&gt;thông tin&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#99FFCC;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="470" y="400" width="130" height="40" as="geometry" />
+          <mxGeometry x="480" y="400" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U94suldAqwC2syZF1995-10" value="Hủy thành công" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#99FFCC;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="645" y="400" width="120" height="40" as="geometry" />
@@ -1065,7 +1065,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cyXRxLWBbiP_qCYVc1oH-1" value="" style="rhombus;fillColor=#0000FF;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="520" y="480" width="30" height="30" as="geometry" />
+          <mxGeometry x="530" y="480" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cyXRxLWBbiP_qCYVc1oH-3" value="Thông báo lỗi" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#99FFCC;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="400" y="475" width="100" height="40" as="geometry" />

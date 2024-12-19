@@ -1749,7 +1749,13 @@
           <mxGeometry x="60" y="310" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ds2yt1-fBiOAG_eCba2B-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Yêu cầu nhập lại&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Qr9qpVKD45HdwTU5HZJy-1">
-          <mxGeometry x="50" y="630" width="80" height="30" as="geometry" />
+          <mxGeometry x="70" y="630" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5J06iMJuJyI-4PqB6o2f-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Hủy bỏ&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Qr9qpVKD45HdwTU5HZJy-1">
+          <mxGeometry x="50" y="780" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5J06iMJuJyI-4PqB6o2f-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Hủy bỏ&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Qr9qpVKD45HdwTU5HZJy-1">
+          <mxGeometry x="160" y="740" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OR1SgH1peowB0GRopsFY-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UzDXJkB33fAo9jBVWhk8-1" target="UzDXJkB33fAo9jBVWhk8-2">
           <mxGeometry relative="1" as="geometry" />

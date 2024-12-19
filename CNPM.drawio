@@ -411,53 +411,53 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pS76od08-7XSCxtdSmXQ" name="summary">
-    <mxGraphModel dx="819" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="EndW9EghQf4jxqwavOPl-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EndW9EghQf4jxqwavOPl-25" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="305" y="30" width="185" height="990" as="geometry" />
         </mxCell>
-        <mxCell id="cQAmyiw5eKxSz-nq0pwW-1" value="Đăng nhập" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cQAmyiw5eKxSz-nq0pwW-1" value="Đăng nhập" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="350" y="40" width="95" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="cQAmyiw5eKxSz-nq0pwW-2" value="Đăng xuất" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cQAmyiw5eKxSz-nq0pwW-2" value="Đăng xuất" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="350" y="110" width="95" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="cQAmyiw5eKxSz-nq0pwW-3" value="Đăng ký đề tài" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cQAmyiw5eKxSz-nq0pwW-3" value="Đăng ký đề tài" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="350" y="180" width="95" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="cQAmyiw5eKxSz-nq0pwW-4" value="Đăng bài báo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cQAmyiw5eKxSz-nq0pwW-4" value="Đăng bài báo" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="350" y="250" width="95" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="cQAmyiw5eKxSz-nq0pwW-5" value="Xem thông báo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cQAmyiw5eKxSz-nq0pwW-5" value="Xem thông báo" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="350" y="320" width="95" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="cQAmyiw5eKxSz-nq0pwW-6" value="Sửa thông tin cá nhân" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cQAmyiw5eKxSz-nq0pwW-6" value="Sửa thông tin cá nhân" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="350" y="390" width="95" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="cQAmyiw5eKxSz-nq0pwW-7" value="Duyệt đề tài/&lt;div&gt;&amp;nbsp;bài báo&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cQAmyiw5eKxSz-nq0pwW-7" value="Duyệt đề tài/&lt;div&gt;&amp;nbsp;bài báo&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="350" y="460" width="95" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CYQRnEvUrK2z0a5V9PgF-1" value="Đánh giá bài báo/ đề tài" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CYQRnEvUrK2z0a5V9PgF-1" value="Đánh giá bài báo/ đề tài" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="350" y="530" width="95" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CYQRnEvUrK2z0a5V9PgF-2" value="Phân công&lt;div&gt;hội đồng&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CYQRnEvUrK2z0a5V9PgF-2" value="Phân công&lt;div&gt;hội đồng&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="350" y="600" width="95" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CYQRnEvUrK2z0a5V9PgF-3" value="Quản lý thông báo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CYQRnEvUrK2z0a5V9PgF-3" value="Quản lý thông báo" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="350" y="670" width="95" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="cjEi6tOewhu2mRUfHdLU-1" value="Quản lý user" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cjEi6tOewhu2mRUfHdLU-1" value="Quản lý user" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="350" y="740" width="95" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="cjEi6tOewhu2mRUfHdLU-2" value="Quản lý bài báo từ sinh viên" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cjEi6tOewhu2mRUfHdLU-2" value="Quản lý bài báo từ sinh viên" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="350" y="810" width="95" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MUCLNZxO2G2gl4glXcL_-1" value="&lt;font&gt;Quản lý bài báo từ crawl data&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MUCLNZxO2G2gl4glXcL_-1" value="&lt;font&gt;Quản lý bài báo từ crawl data&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="350" y="880" width="95" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rA2mjmh7IJIhLyyeQvj5-1" value="&lt;font&gt;In báo cáo- thống kê&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rA2mjmh7IJIhLyyeQvj5-1" value="&lt;font&gt;In báo cáo- thống kê&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="350" y="950" width="95" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zGhDSmBy7IUyp9h9L6Wg-1" value="Sinh viên" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">

@@ -1728,6 +1728,12 @@
             <mxRectangle x="420" y="150" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="yd1vEnBjr0Z_h5NFt13v-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Sai&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3iPBwgK57apngOuwdhCn-1">
+          <mxGeometry x="110" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5J06iMJuJyI-4PqB6o2f-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Đúng&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3iPBwgK57apngOuwdhCn-1">
+          <mxGeometry x="180" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="Qr9qpVKD45HdwTU5HZJy-1" value="admin" style="swimlane;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=3;swimlaneLine=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="150" width="380" height="850" as="geometry">
             <mxRectangle x="60" y="150" width="100" height="30" as="alternateBounds" />

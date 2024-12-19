@@ -1581,7 +1581,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XL8zEyNbNZD4rr_A2vGQ" name="Quản lý user">
-    <mxGraphModel dx="610" dy="368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1067" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1700,6 +1700,9 @@
         </mxCell>
         <mxCell id="Nib6H0i6ysGFMxalDOcP-8" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
           <mxGeometry x="185" y="715" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0eDPfhxUeuiLzK06JEOw-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Yêu cầu nhập lại&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="580" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

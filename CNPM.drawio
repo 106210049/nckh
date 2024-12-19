@@ -644,7 +644,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="x4XsCHvQw8Hq6vui8JbK" name="login_activity_diagram">
-    <mxGraphModel dx="1654" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="391" dy="214" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -700,6 +700,9 @@
               <mxPoint x="600" y="470" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="QVoN9cNIxybFUvgpjZ-F-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wNlY4IZdVZvZV4PoUj6O-21" target="wNlY4IZdVZvZV4PoUj6O-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wNlY4IZdVZvZV4PoUj6O-21" value="" style="ellipse;fillColor=strokeColor;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="227.5" y="70" width="25" height="20" as="geometry" />
@@ -777,6 +780,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6bTPjsMFTD7iViW0jp-T-1" value="Đăng nhập vào hệ thống" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="160" y="110" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Wideg_R0g3lLHPeNS9m6-1" value="Xác thực quyền truy cập" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#99FFCC;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="520" y="110" width="160" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

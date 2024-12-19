@@ -1127,7 +1127,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uyxWYusr75pv4Gn-ZOt7" name="Quản lý đề tài/bài báo-admin">
-    <mxGraphModel dx="1280" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1067" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1188,6 +1188,9 @@
         </mxCell>
         <mxCell id="54f6xQiHvOoPMzDe3y77-37" value="Hủy thành công" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#99FFCC;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="54f6xQiHvOoPMzDe3y77-18">
           <mxGeometry x="135" y="200" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="grgfPvQ4B37CHYxAQQxd-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Hoàn tất&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="54f6xQiHvOoPMzDe3y77-18">
+          <mxGeometry x="210" y="570" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="54f6xQiHvOoPMzDe3y77-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="54f6xQiHvOoPMzDe3y77-17" target="54f6xQiHvOoPMzDe3y77-9">
           <mxGeometry relative="1" as="geometry" />

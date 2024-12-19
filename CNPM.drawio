@@ -844,10 +844,10 @@
           <mxGeometry x="550" y="270" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9ykzedF7Q2xI-zGqV_0n-18" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Yêu cầu nhập lại thông tin&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="250" width="135" height="30" as="geometry" />
+          <mxGeometry x="140" y="250" width="112.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9ykzedF7Q2xI-zGqV_0n-19" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Hủy bỏ&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="390" width="60" height="30" as="geometry" />
+          <mxGeometry x="240" y="320" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

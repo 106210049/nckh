@@ -1046,7 +1046,7 @@
         <mxCell id="U94suldAqwC2syZF1995-6" value="Sửa đề tài" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="120" y="400" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="U94suldAqwC2syZF1995-8" value="Kiểm tra thông tin" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#99FFCC;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="U94suldAqwC2syZF1995-8" value="Kiểm tra&amp;nbsp;&lt;div&gt;thông tin&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#99FFCC;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="440" y="400" width="130" height="40" as="geometry" />
         </mxCell>
       </root>

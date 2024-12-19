@@ -707,6 +707,9 @@
         <mxCell id="wNlY4IZdVZvZV4PoUj6O-21" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="1">
           <mxGeometry x="187.5" y="60" width="25" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="wNlY4IZdVZvZV4PoUj6O-23" value="Đăng nhập lại" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="320" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

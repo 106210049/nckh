@@ -865,7 +865,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5LnASr8H5wwdPq46A_wU" name="Quản lý hội đồng">
-    <mxGraphModel dx="1506" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="883" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -942,8 +942,14 @@
         <mxCell id="cTfaBt22akGuV84oOPTa-3" value="Thông báo lỗi" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#99FFCC;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="530" y="270" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VPVLyLCfGbSJpExHNUL0-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cTfaBt22akGuV84oOPTa-5" target="VPVLyLCfGbSJpExHNUL0-10">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="VPVLyLCfGbSJpExHNUL0-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="cTfaBt22akGuV84oOPTa-5" target="VPVLyLCfGbSJpExHNUL0-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="375" />
+              <mxPoint x="800" y="800" />
+              <mxPoint x="155" y="800" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="cTfaBt22akGuV84oOPTa-5" value="Hủy thành công" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#99FFCC;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="620" y="350" width="160" height="50" as="geometry" />

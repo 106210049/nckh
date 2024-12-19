@@ -1885,6 +1885,22 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZkbrnIPK--yhCzSTNsgn-1" value="Hệ thống" style="swimlane;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=3;swimlaneLine=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="420" y="150" width="100" height="30" as="geometry">
+            <mxRectangle x="420" y="150" width="380" height="850" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BhNbteqYYBGbVvIvBYsO-1" value="admin" style="swimlane;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=3;swimlaneLine=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="40" y="150" width="100" height="30" as="geometry">
+            <mxRectangle x="40" y="150" width="380" height="850" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5awWscC8LdMARiHa06TY-1" value="Nhập mật khẩu&lt;div&gt;&amp;nbsp;người dùng&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="110" y="240" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5awWscC8LdMARiHa06TY-2" value="Kiểm tra thông tin" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#99FFCC;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="520" y="240" width="160" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -1893,6 +1909,34 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="AqDrl-pvaRAuC37Xuhxy-1" value="Hệ thống" style="swimlane;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=3;swimlaneLine=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="420" y="150" width="100" height="30" as="geometry">
+            <mxRectangle x="420" y="150" width="380" height="850" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AqDrl-pvaRAuC37Xuhxy-2" value="admin" style="swimlane;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=3;swimlaneLine=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="40" y="150" width="100" height="30" as="geometry">
+            <mxRectangle x="40" y="150" width="380" height="850" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eEQgAmEx3cc-FHmY9dps-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eEQgAmEx3cc-FHmY9dps-1" target="eEQgAmEx3cc-FHmY9dps-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eEQgAmEx3cc-FHmY9dps-1" value="Chọn mục thống kê" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="110" y="240" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KwH-65kZbisZzwx0s-0_-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eEQgAmEx3cc-FHmY9dps-2" target="KwH-65kZbisZzwx0s-0_-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eEQgAmEx3cc-FHmY9dps-2" value="Kiểm tra thông tin" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#99FFCC;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="520" y="240" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KwH-65kZbisZzwx0s-0_-1" value="" style="rhombus;fillColor=#0000FF;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="585" y="400" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KwH-65kZbisZzwx0s-0_-3" value="Hiển thị bảng&amp;nbsp;&lt;div&gt;thống kê&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#99FFCC;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="520" y="480" width="160" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

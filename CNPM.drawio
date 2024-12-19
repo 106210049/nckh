@@ -1719,17 +1719,17 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rQEBZ9XbrqELt1HMn5rt" name="Đổi mật khẩu">
-    <mxGraphModel dx="557" dy="309" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1392" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3iPBwgK57apngOuwdhCn-1" value="Hệ thống" style="swimlane;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=3;swimlaneLine=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="150" width="360" height="850" as="geometry">
+          <mxGeometry x="420" y="150" width="380" height="850" as="geometry">
             <mxRectangle x="420" y="150" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Qr9qpVKD45HdwTU5HZJy-1" value="admin" style="swimlane;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=3;swimlaneLine=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="150" width="360" height="850" as="geometry">
+          <mxGeometry x="40" y="150" width="380" height="850" as="geometry">
             <mxRectangle x="60" y="150" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>

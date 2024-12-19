@@ -1077,7 +1077,7 @@
           <mxGeometry x="180" y="450" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Nf0yiEntAloBWkN2C_kV-1" value="Hệ thống" style="swimlane;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="370" y="70" width="430" height="650" as="geometry">
+          <mxGeometry x="390" y="70" width="420" height="650" as="geometry">
             <mxRectangle x="120" y="40" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1121,7 +1121,7 @@
           <mxGeometry x="260" y="570" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Nf0yiEntAloBWkN2C_kV-2" value="Hệ thống" style="swimlane;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="40" y="70" width="330" height="650" as="geometry">
+          <mxGeometry x="40" y="70" width="350" height="650" as="geometry">
             <mxRectangle x="120" y="40" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
